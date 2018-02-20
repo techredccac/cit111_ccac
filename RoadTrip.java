@@ -31,7 +31,7 @@ public class RoadTrip {
         double legDistance; // delcaring this variable but not initalizing
         
         // simulation of the roadtrip
-        System.out.println("***Road trip simulator***");
+        System.out.println("***Road trip simulator Changed!***");
         // print out initial stats
         System.out.println("--> Beginning of trip stats <--");
         System.out.println("Make of car: " + carMake + " that can carry: " + maxPassengers);
