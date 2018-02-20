@@ -7,6 +7,7 @@ package week3;
 
 /**
  * Simulates basic recorded data about a road trip to Moab, Utah
+ * This line has changed!
  * @author Eric Darsow
  */
 public class RoadTrip {
